@@ -1,8 +1,8 @@
-# CSV Converter App
+# Google Drive Embedable Link App
 
 ## Overview
 
-The **CSV Converter App** is a simple GUI tool built in Python. It allows users to convert CSV files containing image information, specifically 'Image Title' and 'Image Link' columns, by adding an 'Embeddable Link' column. This is useful for converting Google Drive links to direct download links.
+The **Google Drive Embedable Link App** is a simple GUI tool built in Python. It allows users to convert CSV files containing image information, specifically 'Image Title' and 'Image Link' columns, by adding an 'Embeddable Link' column. This is useful for converting Google Drive links to direct download links.
 
 ## Features
 
